@@ -35,4 +35,4 @@ This project was developed as a learning and portfolio project.
 1. Make sure Python 3 is installed
 2. Clone the repository:
    ```bash
-
+https://github.com/basirahmadmehrzad/tic-tac-toe_gui.git
